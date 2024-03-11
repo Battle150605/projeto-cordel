@@ -51,7 +51,8 @@ article { margin-top: 80px;
     padding-top: 10vh;
     padding-bottom: 10vh;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
+    background-size: cover;
     padding-left: 0;
     box-shadow: 3px 3px 20px 0px;
 }
@@ -68,7 +69,8 @@ article { margin-top: 80px;
     padding-top: 10vh;
     padding-bottom: 10vh;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
+    background-size: cover;
     padding-left: 0;
     box-shadow: 3px 3px 13px 0px;
 }
